@@ -1,6 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 yiming
 Sara
 >>>>>>> d2b06265dfac09de8f1c270e827a9170807ac4c7
+=======
+=======
+yiming
+Brendan
+Sonja
+Sara
+>>>>>>> 28e5136941c4f0bb7625d66cf58819928d01c2a6
+>>>>>>> d62a00ae6ca6029c1a1b8a1b487bdab9096807ea
